@@ -1,4 +1,4 @@
-# HiRGC
+# HiRGC local
 
 A high performance referential genome compression algorithm (termed HiRGC)
 
